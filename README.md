@@ -1,7 +1,5 @@
 # 🌸 Processo seletivo da Target🌸
 
-## Autoria própria
-
 + ### Tecnologias:
      <img aling="cebter" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
      <img aling="cebter" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
