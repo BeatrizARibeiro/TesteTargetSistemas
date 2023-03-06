@@ -1,4 +1,4 @@
-# 🌸 Exercícios para processo seletivo da Target🌸
+# 🌸 Processo seletivo da Target🌸
 
 ## Autoria própria
 
